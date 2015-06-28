@@ -21,4 +21,4 @@ begin
   puts "Quit? Y or N"
   user_quit = gets.chomp
 end while user_quit != "Y"
-puts "peace!"
+puts "goodbye!"
